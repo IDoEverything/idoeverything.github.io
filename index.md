@@ -1,2 +1,2 @@
 # I Do Everything
-[EzDatabase docs](https://idoeverything.github.io/ezdatabase)
+[EzDatabase docs](https://idoeverything.github.io/EzDatabase)
